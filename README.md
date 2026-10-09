@@ -1,14 +1,14 @@
-Hi, I'm Mehdi Rezaei,
+Hi, I'm Mehdi Rezaei.
 
-Computer Engineering graduate from Urmia University of Technology,
+I'm a Computer Engineering graduate from Urmia University of Technology, interested in AI, Large Language Models (LLMs), and Medical AI.
 
-interested in AI, Large Language Models (LLMs), and Medical AI,
-
-currently working on : AI projects, research, and whatever looks interesting,
+Currently working on AI projects, exploring research ideas, and building whatever catches my interest.
 
 Telegram: [Mehd1Rz](https://t.me/Mehd1Rz)
 
 Email: [Itsmehdi.r.z@gmail.com](mailto:Itsmehdi.r.z@gmail.com)
+
+
 
 ---
 
